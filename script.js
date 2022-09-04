@@ -13,6 +13,7 @@ function loading(){
     loader.hidden  =false;
     quoteContainer.hidden = true;
 }
+//
 // compconste function
 function complete (){
     quoteContainer.hidden = false;
